@@ -7,3 +7,6 @@ def index(request):
 
 def console(request):
     pass
+
+def register(request):
+    pass
